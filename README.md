@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 27/12/2024
+## DATE: 19/10/2024
 
 ## AIM:
 
@@ -46,10 +46,8 @@
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/cac8d310-60d7-4192-a6c0-0d34e59fd034)
-![image](https://github.com/user-attachments/assets/4a83a0bc-0292-433d-b2be-1184f31ef1eb)
-
-
+![image](https://github.com/user-attachments/assets/a7decae6-f5a5-4925-a74e-4bae861c727d)
+![image](https://github.com/user-attachments/assets/4531ef60-3e6e-4a9b-9c66-e382d0797862)
 
 
 ### Name:B.Khaja Rasool
